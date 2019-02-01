@@ -1,18 +1,15 @@
 
-## 原blog地址
-https://github.com/jiwenxing/hexo-blog
 
-https://github.com/tufu9441/maupassant-hexo
-	
-## 参考资料
-## 搭建hexo
+### chrome插件整理
 
-http://www.youmeek.com/hexo-install/?tdsourcetag=s_pcqq_aiomsg
+1、同步助手
 
-## 迁移hexo
+[Chrome-Sync-Helper.crx](https://github.com/skyrimor/chrome_extensions/blob/master/extensions/Chrome-Sync-Helper.crx)
 
-https://blog.csdn.net/littlehaes/article/details/81503455
+2、json格式化
 
-https://blog.csdn.net/xcantloadx/article/details/78296227
+[JSON-Viewer_v0.18.0.crx](https://github.com/skyrimor/chrome_extensions/blob/master/extensions/Chrome-Sync-Helper.crx)
 
-https://npm.taobao.org/
+3、markDown工具
+
+[Markdown-Here_v2.12.0.crx](https://github.com/skyrimor/chrome_extensions/blob/master/extensions/Markdown-Here_v2.12.0.crx)
