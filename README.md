@@ -2,6 +2,10 @@
 
 ### chrome插件整理
 
+插件伴侣（无法离线安装时使用）
+
+[Chrome插件伴侣.exe](https://github.com/skyrimor/chrome_extensions/raw/master/extensions/Chrome插件伴侣.exe)
+
 1、同步助手
 
 [Chrome-Sync-Helper.crx](https://github.com/skyrimor/chrome_extensions/raw/master/extensions/Chrome-Sync-Helper.crx)
